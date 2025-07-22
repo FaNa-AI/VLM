@@ -69,8 +69,7 @@ All of these are automatically installed in the Colab notebook.
 ```
 Image: dog_playing.jpg
 Generated Caption: a dog playing with a ball in the grass
-### Example 1
-![A child sitting in a play area](Image-captioning/screenshot_20250721_235853.jpg)
+
 ```
 
 ---

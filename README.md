@@ -67,10 +67,10 @@ All dependencies are automatically installed in the Colab notebook.
 
 Below is an example of the model generating a caption for an image from the dataset:
 
-**Image**: `Generation pic.jpg`
+**Image**: `screenshot_20250721_235853.jpg`
 **Generated Caption**: `a child sitting in a play area'
 
-![Generated caption sample](Generation pic.jpg)
+![Generated caption sample](screenshot_20250721_235853.jpg)
 
 ---
 

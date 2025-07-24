@@ -67,8 +67,8 @@ All of these are automatically installed in the Colab notebook.
 ## 📸 Sample Output
 
 ```
-Image: dog_playing.jpg
-Generated Caption: a dog playing with a ball in the grass
+Image: a child.jpg
+Generated Caption: a child sitting in a play area
 
 ```
 

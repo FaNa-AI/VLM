@@ -67,7 +67,7 @@ All of these are automatically installed in the Colab notebook.
 ## 📸 Sample Output
 
 ```
-Image: a child.jpg
+Image: screenshot_20250721_235853.jpg
 Generated Caption: a child sitting in a play area
 
 ```

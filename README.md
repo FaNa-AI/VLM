@@ -1,4 +1,4 @@
-<img width="1076" height="779" alt="image" src="https://github.com/user-attachments/assets/0093e5f1-1940-458d-8597-3029134747f4" /># 🖼️ Image Captioning with BLIP (Vision-Language Model)
+# 🖼️ Image Captioning with BLIP (Vision-Language Model)
 
 This project demonstrates how to generate captions for images using the **BLIP (Bootstrapped Language-Image Pretraining)** model by Salesforce, powered by the 🤗 Hugging Face Transformers library.
 
@@ -68,7 +68,7 @@ All dependencies are automatically installed in the Colab notebook.
 Below is an example of the model generating a caption for an image from the dataset:
 
 **Image**: `Generation pic.jpg`
-**Generated Caption**: `a dog running in the snow`
+**Generated Caption**: `a child sitting in a play area'
 
 ![Generated caption sample](Generation pic.jpg)
 
@@ -97,7 +97,5 @@ Below is an example of the model generating a caption for an image from the data
 ## 📄 License
 
 This project is for educational and research purposes. It uses publicly available pretrained models under their respective licenses.
-
----
 
 
